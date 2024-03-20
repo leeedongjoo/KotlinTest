@@ -9,7 +9,8 @@ fun main() {
     val userNull = user.copy(name = null)
     println(userNull)
     userJava.name?.let{println(it)}
-    println("stop")
+    println("1234")
+
 
     question.question1()
     question.question2()
