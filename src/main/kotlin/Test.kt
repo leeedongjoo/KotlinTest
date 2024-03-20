@@ -9,8 +9,7 @@ fun main() {
     val userNull = user.copy(name = null)
     println(userNull)
     userJava.name?.let{println(it)}
-    println("1234")
-
+    println("stop")
 
     question.question1()
     question.question2()
@@ -21,7 +20,7 @@ fun main() {
 }
 
 
-//test branch
+//test
 
 
 class Question {
